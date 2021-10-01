@@ -1,0 +1,12 @@
+.line-container {
+  background-color: #faecec;
+  padding: 10px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.copy-span {
+  color: #e2b9b9;
+  font-weight: 700;
+}
