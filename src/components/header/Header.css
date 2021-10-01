@@ -25,3 +25,9 @@
 .input-search:focus {
   outline: none;
 }
+
+@media (max-width: 960px) {
+  .input-search {
+    width: 80%;
+  }
+}
